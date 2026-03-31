@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Wl,--dependency-file=CMakeFiles/prog.dir/link.d CMakeFiles/prog.dir/es_3.1.cpp.o -o prog
