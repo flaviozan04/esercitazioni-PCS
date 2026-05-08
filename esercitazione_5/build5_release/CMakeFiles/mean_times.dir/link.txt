@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wno-sign-compare -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/mean_times.dir/link.d CMakeFiles/mean_times.dir/timecounter.cpp.o CMakeFiles/mean_times.dir/mean_times.cpp.o -o mean_times
