@@ -1,0 +1,5 @@
+/home/pcsdocker/Data/esercitazioni-PCS/esercitazione_8/build8/CMakeFiles/test_uni_edge.dir
+/home/pcsdocker/Data/esercitazioni-PCS/esercitazione_8/build8/CMakeFiles/test_uni_graph.dir
+/home/pcsdocker/Data/esercitazioni-PCS/esercitazione_8/build8/CMakeFiles/test.dir
+/home/pcsdocker/Data/esercitazioni-PCS/esercitazione_8/build8/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/esercitazioni-PCS/esercitazione_8/build8/CMakeFiles/rebuild_cache.dir
