@@ -1,0 +1,4 @@
+/home/pcsdocker/Data/esercitazioni-PCS/esercitazione_10/build10/CMakeFiles/test_grad_coniug.dir
+/home/pcsdocker/Data/esercitazioni-PCS/esercitazione_10/build10/CMakeFiles/test.dir
+/home/pcsdocker/Data/esercitazioni-PCS/esercitazione_10/build10/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/esercitazioni-PCS/esercitazione_10/build10/CMakeFiles/rebuild_cache.dir
